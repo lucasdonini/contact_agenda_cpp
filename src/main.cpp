@@ -3,6 +3,7 @@
 #include <stdexcept>
 
 #include "Agenda/Agenda.hpp"
+#include "Contact/Contact.hpp"
 #include "StringUtils/StringUtils.hpp"
 
 using namespace std;
